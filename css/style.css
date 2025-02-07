@@ -85,7 +85,8 @@ a {
 }
 
 .about-us-title,
-.team-name {
+.team-name,
+.portfolio-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -94,7 +95,8 @@ a {
 }
 
 .about-us-p,
-.team-position {
+.team-position,
+.portfolio-name-desc {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
