@@ -33,6 +33,7 @@ a {
 }
 
 .nav .list-link {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -46,8 +47,8 @@ a {
 }
 
 .address-link {
+  font-family: inherit;
   font-style: normal;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -72,6 +73,8 @@ a {
 }
 
 .hero-button {
+  font-family: inherit;
+  cursor: pointer;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -97,7 +100,6 @@ a {
 .about-us-p,
 .team-position,
 .portfolio-name-desc {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -126,7 +128,6 @@ a {
   background-color: #2e2f42;
 }
 .footer-p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
